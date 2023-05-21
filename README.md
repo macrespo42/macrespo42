@@ -69,3 +69,7 @@
     style="display: inline-block; margin: 0 auto; width: 40px"
 /> 
 
+## Github stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=macrespo42)](https://github.com/maxrespo42)
+
