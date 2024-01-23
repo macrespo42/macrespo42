@@ -2,9 +2,9 @@
 
 ## I'm student at 42 Paris, studying computer sciences and web development
 
-- 🔭 I'm currently working on [42 project matrix](https://github.com/macrespo42/matrix)
-- 🌱 I'm currently learning mathematic, computer sciences and rust / python
-- 🥅 2023 goals: Complete the 42 Artificial intelligence projects and find an entreprise to validate my 42 cursus
+- 🔭 I'm currently working on [42 project Hypertube](https://github.com/jurichar/Ultratube)
+- 🌱 I'm currently learning backend dev and python
+- 🥅 2024 goals: Complete the RNCP 7 degree and find an entreprise to validate my 42 cursus
 
 ### Connect with me
 
