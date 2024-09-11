@@ -2,8 +2,8 @@
 
 ## I'm student at 42 Paris, studying computer sciences and web development
 
-- 🔭 I'm currently working on 42 project piscine python for data science
-- 🌱 I'm currently learning Data and algorithm with python
+- 🔭 I'm currently working on 42 project piscine data science
+- 🌱 I'm currently learning Golang
 - 🥅 2024 goals: Complete the RNCP 7 degree and find an entreprise to validate my 42 cursus
 
 ### Connect with me
