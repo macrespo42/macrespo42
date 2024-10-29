@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on implementing a multilayer perceptron model from scratch
 - 🌱 I'm currently learning Golang
-- 🥅 2024 goals: Complete the RNCP 7 degree and find an entreprise to validate my 42 cursus
+- 🥅 2024 goals: Complete the RNCP 7 degree
 
 ### Connect with me
 
