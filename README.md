@@ -2,9 +2,9 @@
 
 ## I'm student at 42 Paris, studying computer sciences and web development
 
-- 🔭 I'm currently working on building a tetris battle royal
-- 🌱 I'm currently learning Golang and reactjs
-- 🥅 2024 goals: Complete the RNCP 7 degree
+- 🔭 I'm currently working on a [tetris battle royal](http://www.redtetris.duckdns.org:5173)
+- 🌱 I'm currently reading Clean Architecture by uncle Bob martin
+- 🥅 2025 goals: Find my first job as Software Engineer
 
 ### Connect with me
 
