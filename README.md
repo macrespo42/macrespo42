@@ -18,3 +18,4 @@
 ## Github stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=macrespo42)](https://github.com/macrespo42)
+[![macrespo GitHub stats](https://github-readme-stats.vercel.app/api?username=macrespo42)](https://github.com/anuraghazra/github-readme-stats)
