@@ -18,4 +18,4 @@
 ## Github stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=macrespo42)](https://github.com/macrespo42)
-[![macrespo GitHub stats](https://github-readme-stats.vercel.app/api?username=macrespo42)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrespo42&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
